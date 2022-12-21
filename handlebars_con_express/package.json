@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"express": "^4.18.2",
+		"express-handlebars": "^6.0.6"
+	},
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"name": "handlebars_con_express",
+	"version": "1.0.0",
+	"main": "index.js"
+}

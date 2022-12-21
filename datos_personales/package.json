@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"express": "^4.18.2"
+	},
+	"name": "datos_personales",
+	"description": "Realizar una página web que permita mostrar datos personales de la siguiente forma:",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon index.js"
+	}
+}
